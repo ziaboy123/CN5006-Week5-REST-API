@@ -1,0 +1,6 @@
+node_modules/
+.env
+*.log
+index_backup.js
+*.pdf
+.DS_Store
